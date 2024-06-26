@@ -7,4 +7,5 @@
 
 # Login and Database details
 
-• database and open link file name is DATABASE Folder
+• Database and open link file name is DATABASE Folder
+
